@@ -25,7 +25,7 @@ Therefore, a combination of operational and strategic decision-making processes 
    \
    They can however use these tokens to vote on higher decisions in a higher layer.&#x20;
 
-<figure><img src="../.gitbook/assets/Visualization of the various decision layers.png" alt="Visualization of the various decision layers"><figcaption><p><em>Visualisation of the various decision layers</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Visualization of decision layers</p></figcaption></figure>
 
 **Strategic voting** is only valid in the highest layer of decision making. A vote is only classified as strategic in the case of (periodical) budget revision decisions, decisions relating to the goal of the organisation or concerning the appointment of council members.
 
