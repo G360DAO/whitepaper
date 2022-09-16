@@ -15,7 +15,7 @@ Other actors involved in G360DAO will be:
 3. The other contributing circles (other than Dev), all groups performing operational tasks in various disciplines and
 4. An open community, being anyone who does not invest nor performs operational or managerial tasks in the DAO, but is interested in following or actively be involved in discussion within the G360DAO through their discord channel.
 
-There are 2 groups that consist of delegated persons from various other actor groups. These will play a more overarching daily operational role within G360DAO (<mark style="background-color:yellow;">see overview picture</mark>):
+There are 2 groups that consist of delegated persons from various other actor groups. These will play a more overarching daily operational role within G360DAO (as shown in the image above):
 
 1. The G360DAO Council - will be formed by representatives of Guardian360 B.V., the Dev Circle and the other circles of which at least 1 person from the Legal Circle. The first council will be appointed by the founders. Future council members can be chosen by the G360DAO participants. The council is responsible for various daily overarching tasks and shall consist of no more than7 persons. One of the most important tasks of the council is to submit proposals for strategic and general financial decisions (although anyone in the community is allowed to send in decision proposals), and initial selection and classification of incoming voting proposals (see Decision Layer and Types).
 2. Quality Control Group. (See overview picture) - The Quality Control group will have representatives from the Dev Circle and Security Engineers and will assess the quality of developed software before final payment is approved for work performed by the developers.
