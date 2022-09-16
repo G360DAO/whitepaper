@@ -22,7 +22,7 @@ Potential deployments of Aragon, Moloch/DAOHaus, Garden, Snapshot, Colony or DAO
 
 A comparative overview is shown below.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>DAO Platform Comparison</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>DAO Platform Comparison</p></figcaption></figure>
 
 Based on the comparison of the existing platform, for the launch of G360DAO, the following platforms will be used:
 

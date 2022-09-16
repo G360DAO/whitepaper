@@ -1,6 +1,6 @@
 # Main Actors and Team
 
-<figure><img src="../.gitbook/assets/Actors and teams overview.png" alt="Actors and teams overview"><figcaption><p><em>Actors and teams overview</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Actors and Teams overview</p></figcaption></figure>
 
 G360DAO's eclectic mix of contributors are organised into different circles based on the type of contribution they make to the product and the organisation. Some will be active on a daily basis, while some can have a more passive role. Despite the variety of players and their levels of contribution, all of our members will be able to participate on various levels in the governance of G360DAO (see [Governance & Tokenomics](broken-reference)).
 
