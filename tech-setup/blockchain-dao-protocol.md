@@ -8,17 +8,7 @@ They will also have to guarantee user participation in governance as much as pos
 
 Potential blockchain protocols that are currently being considered are EVM based blockchain protocols like Ethereum, Polygon, GnosisChain, Avalanche and Binance Smart Chain. An overview of the various options and pros and cons is shown below.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-|                     | Sustainable | Transactioncosts | Transactionspeed | Interoperability | Continuity      | Decentralization |
-| ------------------- | ----------- | ---------------- | ---------------- | ---------------- | --------------- | ---------------- |
-|                     |             |                  |                  |                  |                 |                  |
-| Ethereum            | Non-PoW     | $1+              | 30               | EVM              | Large Dev Base  | High             |
-| Avalanche           | Non-PoW     | $0,25            | 4500             | EVM              | Large Dev Base  | Medium           |
-| Binance Smart Chain | Non-PoW     | $0,25            | 160              | EVM              | Medium Dev Base | Medium?          |
-| Polygon (Matic)     | Non-PoW     | $0,0001          | 10000+           | EVM              | Medium Dev Base | Medium           |
-| Fantom              | Non-PoW     | $0,0004          | 8                | EVM              | Medium Dev Base | Medium           |
-| Gnosis (xDAI)       | Non-PoW     | $0,0004          | 119              | EVM              | Large Dev Base  | Medium           |
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Blockchain protocol comparison</p></figcaption></figure>
 
 Based on the above overview, the decision is to initially use Gnosis as the main blockchain protocol to build the DAO on. &#x20;
 
@@ -32,7 +22,7 @@ Potential deployments of Aragon, Moloch/DAOHaus, Garden, Snapshot, Colony or DAO
 
 A comparative overview is shown below.
 
-<figure><img src="../.gitbook/assets/Comparative overview.png" alt="Comparative overview"><figcaption><p>Comparative overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>DAO Platform Comparison</p></figcaption></figure>
 
 Based on the comparison of the existing platform, for the launch of G360DAO, the following platforms will be used:
 
