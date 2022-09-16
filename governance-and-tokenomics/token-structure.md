@@ -2,7 +2,7 @@
 
 In the G360DAO we distinguish various tokens that are used in the DAO. An overview is shown below.
 
-<figure><img src="../.gitbook/assets/G360DAO Tokens.png" alt="G360DAO Tokens"><figcaption><p>G360DAO Tokens</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>G360DAO Tokens</p></figcaption></figure>
 
 &#x20;The first token type is a **payment token** that will be used to pay for any work that is done in the DAO. This will most probably be one of the main stablecoins like USDC. This token does not have any voting rights or revenue sharing rights.
 
