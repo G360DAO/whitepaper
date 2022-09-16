@@ -8,7 +8,7 @@ They will also have to guarantee user participation in governance as much as pos
 
 Potential blockchain protocols that are currently being considered are EVM based blockchain protocols like Ethereum, Polygon, GnosisChain, Avalanche and Binance Smart Chain. An overview of the various options and pros and cons is shown below.
 
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 |                     | Sustainable | Transactioncosts | Transactionspeed | Interoperability | Continuity      | Decentralization |
 | ------------------- | ----------- | ---------------- | ---------------- | ---------------- | --------------- | ---------------- |
