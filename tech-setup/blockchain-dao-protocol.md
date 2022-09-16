@@ -8,7 +8,17 @@ They will also have to guarantee user participation in governance as much as pos
 
 Potential blockchain protocols that are currently being considered are EVM based blockchain protocols like Ethereum, Polygon, GnosisChain, Avalanche and Binance Smart Chain. An overview of the various options and pros and cons is shown below.
 
-<figure><img src="../.gitbook/assets/Blockchain Overview (1).png" alt="Blockchain Overview"><figcaption><p>Blockchain Overview</p></figcaption></figure>
+
+
+|                     | Sustainable | Transactioncosts | Transactionspeed | Interoperability | Continuity      | Decentralization |
+| ------------------- | ----------- | ---------------- | ---------------- | ---------------- | --------------- | ---------------- |
+|                     |             |                  |                  |                  |                 |                  |
+| Ethereum            | Non-PoW     | $1+              | 30               | EVM              | Large Dev Base  | High             |
+| Avalanche           | Non-PoW     | $0,25            | 4500             | EVM              | Large Dev Base  | Medium           |
+| Binance Smart Chain | Non-PoW     | $0,25            | 160              | EVM              | Medium Dev Base | Medium?          |
+| Polygon (Matic)     | Non-PoW     | $0,0001          | 10000+           | EVM              | Medium Dev Base | Medium           |
+| Fantom              | Non-PoW     | $0,0004          | 8                | EVM              | Medium Dev Base | Medium           |
+| Gnosis (xDAI)       | Non-PoW     | $0,0004          | 119              | EVM              | Large Dev Base  | Medium           |
 
 Based on the above overview, the decision is to initially use Gnosis as the main blockchain protocol to build the DAO on. &#x20;
 
