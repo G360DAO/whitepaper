@@ -6,7 +6,7 @@ Every bucket of actors can have a different amount of voting rights in them. Mea
 
 Each bucket represents a certain number of total votes. This means that e.g., Guardian360 B.V. can represent 10% of the total vote in the DAO and the Dev Circle for example can represent 22.5% of the total votes in the DAO.
 
-<figure><img src="../.gitbook/assets/Example of bucket voting system calculation.png" alt="Example of bucket voting system calculation"><figcaption><p><em>Example of bucket voting system calculation</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Example of bucket voting system calculation</p></figcaption></figure>
 
 This system is set up in such a way that certain token holders can have a relative higher share in voting power, but at the same time none of the buckets will have an absolute majority in voting power. This means that all strategic decisions require consensus over multiple buckets.
 
