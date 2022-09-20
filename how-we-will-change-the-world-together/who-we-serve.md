@@ -16,5 +16,6 @@ IT services providers and managed services providers are already using tools to 
 
 [Guardian360 B.V.](https://www.guardian360.net), a Dutch leading information security software firm, will be the launching customer for G360DAO and will integrate information security insight applications in its Lighthouse platform. Guardian360 B.V. sells its Services via Distributors and Partners to Clients generating monthly recurring revenue streams in various countries. A portion of that monthly revenue will be used to purchase from G360DAO.
 
-Clients who are capable to use G360DAO information security insights themselves\
+### Clients who are capable to use G360DAO information security insights themselves
+
 Not every organisation outsources its IT-management. Therefore, G360DAO will create a webshop to allow these clients to obtain paid licenses.
