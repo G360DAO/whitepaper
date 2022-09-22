@@ -12,7 +12,7 @@ Do you believe your voice in security decisions needs to be heard?&#x20;
 
 Do you believe we as a community should work on raising the bar for security in general with real solutions?&#x20;
 
-If you are screaming _**yes**_ to all those questions and are you a hacker, security engineer, developer, or think you can contribute in any way, shape or form, then we welcome you to join the G360DAO mission via Discord ([https://discord.gg/Gt8P9AdQTM](https://discord.gg/Gt8P9AdQTM)) and Telegram ([https://t.me/G360DAO](https://t.me/guardian360dao))!
+If you are screaming _**yes**_ to all those questions and are you a hacker, security engineer, developer, or think you can contribute in any way, shape or form, then we welcome you to join the G360DAO mission via Discord ([https://discord.gg/Gt8P9AdQTM](https://discord.gg/Gt8P9AdQTM)) and Telegram ([https://t.me/+GIDEX\_Xgz3djYTRk](https://t.me/+GIDEX\_Xgz3djYTRk))!
 
 ### **Do you want to support our cause? Buy one or more NFTs!**
 
