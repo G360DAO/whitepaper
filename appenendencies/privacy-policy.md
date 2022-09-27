@@ -1,7 +1,7 @@
 # Privacy policy
 
 _Identity_\
-This privacy statement is used by G360DAO on the websites [www.guardian360.io](https://www.guardian360.io) and [www.guardian360dao.eth](https://www.guardian360dao.eth).
+This privacy statement is used by G360DAO on the websites [https://g360dao.io](https://g360dao.io) and [https://g360dao.eth](https://g360dao.eth).
 
 _General_\
 We believe a careful handling of personal data is of great importance. Personal details will be carefully handled and protected by us. At all our processing, we adhere to the requirements of the data protection act. In this statement, we explain what personal information we collect and use and for what purpose. We recommend you to carefully consider this statement.
