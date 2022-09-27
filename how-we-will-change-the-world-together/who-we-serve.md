@@ -8,7 +8,7 @@ G360DAO will serve three types of customers:
 
 ### Hackers, developers and other experts
 
-G360DAO information security insight applications can be used free of charge as long as the [license criteria](https://github.com/Guardian360DAO/information-security-insights/blob/main/LICENSE.md) are met. However, we expect some hackers, developers, and other experts to obtain a paid license because they need a commercial license for their activities.
+G360DAO information security insight applications can be used free of charge as long as the [license criteria](https://github.com/G360DAO/information-security-insights/blob/main/LICENSE.md) are met. However, we expect some hackers, developers, and other experts to obtain a paid license because they need a commercial license for their activities.
 
 ### Software firms and integrators
 
