@@ -4,9 +4,7 @@ In the G360DAO we distinguish various tokens that are used in the DAO. An overvi
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>G360DAO Tokens</p></figcaption></figure>
 
-&#x20;The first token type is a **payment token** that will be used to pay for any work that is done in the DAO. This will most probably be one of the main stablecoins like USDC. This token does not have any voting rights or revenue sharing rights.
-
-\----
+The first token type is a **payment token** that will be used to pay for any work that is done in the DAO. This will most probably be one of the main stablecoins like USDC. This token does not have any voting rights or revenue sharing rights.
 
 The second token type are the **RevShare tokens**. There will be specific RevShare tokens per circle. Per circle, these RevShare tokens can only be earned by performing work and cannot be bought or traded. Therefore, they also represent reputation in the specific circle of G360DAO. Based on the amount of RevShare tokens, one has a higher or lower voting power within in their circle and or bucket.
 
@@ -15,8 +13,6 @@ Besides voting power, RevShare tokens also give right to Revenue Sharing. A perc
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>RevShare token per circle depreciation example</p></figcaption></figure>
 
 An example of a RevShare token is the DRevShare token for Developers in the Development circle or LRevShare tokens for the Legal circle.
-
-\----
 
 The third token type is the **investment token**. These tokens can be bought and traded and represent voting- and revenue sharing rights.&#x20;
 
